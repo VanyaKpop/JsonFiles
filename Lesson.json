@@ -1,6 +1,6 @@
 {
 	"Lesson": [
-		// Monday 
+		
 		{
 			"idWeek": "monday",
 			"weekStart": 1,
@@ -60,7 +60,7 @@
 			"time": "12:45"
 		},
 
-		// Tuesday
+		
 		{
 			"idWeek": "tuesday",
 			"weekStart": 2,
@@ -101,7 +101,7 @@
 			"time": "12:45"
 		},
 
-		// Wednesday
+		
 		{
 			"idWeek": "wednesday",
 			"weekStart": 2,
@@ -132,7 +132,7 @@
 			"time": "10:30"
 		},
 
-		// Friday
+		
 		{
 			"idWeek": "friday",
 			"weekStart": 5,
@@ -183,7 +183,7 @@
 			"time": "12:45"
 		},
 
-		// Saturday
+		
 		{
 			"idWeek": "saturday",
 			"weekStart": 2,
