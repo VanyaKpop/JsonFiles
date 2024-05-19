@@ -1,5 +1,6 @@
 {
 	"Lesson": [
+
 		{
 			"idWeek": "monday",
 			"weekStart": 1,
@@ -59,6 +60,7 @@
 			"time": "12:45"
 		},
 
+
 		{
 			"idWeek": "tuesday",
 			"weekStart": 2,
@@ -99,6 +101,7 @@
 			"time": "12:45"
 		},
 
+
 		{
 			"idWeek": "wednesday",
 			"weekStart": 2,
@@ -118,6 +121,7 @@
 			"time": "10:30"
 		},
 
+
 		{
 			"idWeek": "thursday",
 			"weekStart": 6,
@@ -127,6 +131,7 @@
 			"lesson": "Дискретная математика с элементами математической логики (лек). 204 ауд.",
 			"time": "10:30"
 		},
+
 		
 		{
 			"idWeek": "friday",
