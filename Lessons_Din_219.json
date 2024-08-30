@@ -1,0 +1,270 @@
+{
+	"Lesson": [
+
+		{
+			"idWeek": "monday",
+			"weekStart": 3,
+			"weekEnd": 5,
+			"numeration": 1,
+			"even": null,
+			"lesson": "Физическая культура (практ.), Майоркина И.В., 11/103 ауд.",
+			"time": "8:45"
+		},
+		{
+			"idWeek": "monday",
+			"weekStart": 9,
+			"weekEnd": 12,
+			"numeration": 1,
+			"even": null,
+			"lesson": "Иностранный язык в профессиональной деятельности (лаб.), Чернышёва Л.В., 11/108 ауд.",
+			"time": "8:45"
+		},
+		{
+			"idWeek": "monday",
+			"weekStart": 1,
+			"weekEnd": 13,
+			"numeration": 2,
+			"even": null,
+			"lesson": "Иностранный язык в профессиональной деятельности (лаб.), Чернышёва Л.В., 11/108 ауд.",
+			"time": "10:30"
+		},
+		{
+			"idWeek": "monday",
+			"weekStart": 2,
+			"weekEnd": 3,
+			"numeration": 3,
+			"even": null,
+			"lesson": "Теория вероятностей и математическая статистика (лек), Ткачёва Е.А., 11/309 ауд",
+			"time": "12:45"
+		},
+		{
+			"idWeek": "monday",
+			"weekStart": 6,
+			"weekEnd": 8,
+			"numeration": 3,
+			"even": null,
+			"lesson": "Теория вероятностей и математическая статистика (лек), Ткачёва Е.А., 11/309 ауд",
+			"time": "12:45"
+		},
+		{
+			"idWeek": "monday",
+			"weekStart": 2,
+			"weekEnd": 3,
+			"numeration": 4,
+			"even": null,
+			"lesson": "Теория вероятностей и математическая статистика (лек), Ткачёва Е.А., 11/309 ауд",
+			"time": "14:30"
+		},
+		{
+			"idWeek": "monday",
+			"weekStart": 6,
+			"weekEnd": 8,
+			"numeration": 4,
+			"even": null,
+			"lesson": "Теория вероятностей и математическая статистика (лек), Ткачёва Е.А., 11/309 ауд",
+			"time": "14:30"
+		},
+		
+		{
+			"idWeek": "tuesday",
+			"weekStart": 1,
+			"weekEnd": 13,
+			"numeration": 1,
+			"even": null,
+			"lesson": "Физическая культура (практ.), Майоркина И.В., 11/103 ауд.",
+			"time": "8:45"
+		},
+		{
+			"idWeek": "tuesday",
+			"weekStart": 1,
+			"weekEnd": 13,
+			"numeration": 2,
+			"even": null,
+			"lesson": "Безопасность жизнедеятельности (практ.), Грицаенко А.Э., 11/203 ауд.",
+			"time": "10:30"
+		},
+		
+		{
+			"idWeek": "wednesday",
+			"weekStart": 1,
+			"weekEnd": 5,
+			"numeration": 1,
+			"even": null,
+			"lesson": "Безопасность жизнедеятельности (лек), Грицаенко А.Э., 11/309 ауд.",
+			"time": "8:45"
+		},
+		{
+			"idWeek": "wednesday",
+			"weekStart": 1,
+			"weekEnd": 5,
+			"numeration": 2,
+			"even": null,
+			"lesson": "Безопасность жизнедеятельности (лек), Грицаенко А.Э., 11/309 ауд.",
+			"time": "10:30"
+		},
+		{
+			"idWeek": "wednesday",
+			"weekStart": 1,
+			"weekEnd": 5,
+			"numeration": 3,
+			"even": null,
+			"lesson": "Безопасность жизнедеятельности (лек), Грицаенко А.Э., 11/309 ауд.",
+			"time": "12:45"
+		},
+		{
+			"idWeek": "wednesday",
+			"weekStart": 1,
+			"weekEnd": 5,
+			"numeration": 4,
+			"even": null,
+			"lesson": "Безопасность жизнедеятельности (лек), Грицаенко А.Э., 11/309 ауд.",
+			"time": "14:30"
+		},
+		{
+			"idWeek": "wednesday",
+			"weekStart": 6,
+			"weekEnd": 10,
+			"numeration": 3,
+			"even": null,
+			"lesson": "Моделирование и анализ программного обеспечения (лаб), Синев А.О., 11/407 ауд.",
+			"time": "12:45"
+		},		
+		{
+			"idWeek": "wednesday",
+			"weekStart": 11,
+			"weekEnd": 12,
+			"numeration": 3,
+			"even": null,
+			"lesson": "Моделирование и анализ программного обеспечения (практ), Синев А.О., 11/407 ауд.",
+			"time": "12:45"
+		},
+		{
+			"idWeek": "wednesday",
+			"weekStart": 6,
+			"weekEnd": 12,
+			"numeration": 4,
+			"even": null,
+			"lesson": "Теория вероятностей и математическая статистика (практ.), Ткачёва Е.А., 11/409 ауд.",
+			"time": "14:30"
+		},
+		{
+			"idWeek": "thursday",
+			"weekStart": 1,
+			"weekEnd": 11,
+			"numeration": 2,
+			"even": null,
+			"lesson": "Управление проектами (лек), Бахтурин В.В., 11/109 ауд.",
+			"time": "10:30"
+		},
+		{
+			"idWeek": "thursday",
+			"weekStart": 1,
+			"weekEnd": 9,
+			"numeration": 3,
+			"even": null,
+			"lesson": "Моделирование и анализ программного обеспечения (лек), Синев А.О., 11/113 ауд.",
+			"time": "12:45"
+		},
+		
+		{
+			"idWeek": "friday",
+			"weekStart": 1,
+			"weekEnd": 2,
+			"numeration": 1,
+			"even": null,
+			"lesson": "Численные методы (лек), Гольтяпин В.В., 11/309 ауд.",
+			"time": "8:45"
+		},
+		{
+			"idWeek": "friday",
+			"weekStart": 3,
+			"weekEnd": 11,
+			"numeration": 1,
+			"even": null,
+			"lesson": "Численные методы (практ.), Гольтяпин В.В., 11/206 ауд.",
+			"time": "8:45"
+		},
+		{
+			"idWeek": "friday",
+			"weekStart": 1,
+			"weekEnd": 12,
+			"numeration": 2,
+			"even": null,
+			"lesson": "Численные методы (лек), Гольтяпин В.В., 11/206 ауд.",
+			"time": "10:30"
+		},
+		{
+			"idWeek": "friday",
+			"weekStart": 3,
+			"weekEnd": 11,
+			"numeration": 3,
+			"even": null,
+			"lesson": "Внедрение информационных систем (практ.), Пушкарская Е.В., 11/412 ауд.",
+			"time": "12:45"
+		},
+		
+		{
+			"idWeek": "saturday",
+			"weekStart": 1,
+			"weekEnd": 1,
+			"numeration": 1,
+			"even": null,
+			"lesson": "Внедрение информационные систем (лек), Пушкарская Е.В., 11/308 ауд.",
+			"time": "8:45"
+		},
+		{
+			"idWeek": "saturday",
+			"weekStart": 3,
+			"weekEnd": 5,
+			"numeration": 1,
+			"even": null,
+			"lesson": "Управление проектами (практ.), Соколова М.А., 11/208 ауд.",
+			"time": "8:45"
+		},
+		{
+			"idWeek": "saturday",
+			"weekStart": 6,
+			"weekEnd": 11,
+			"numeration": 1,
+			"even": null,
+			"lesson": "Управление проектами (лаб.), Соколова М.А., 11/208 ауд.",
+			"time": "8:45"
+		},
+		{
+			"idWeek": "saturday",
+			"weekStart": 1,
+			"weekEnd": 12,
+			"numeration": 2,
+			"even": null,
+			"lesson": "Внедрение информационные систем (лек), Пушкарская Е.В., 11/113 ауд.",
+			"time": "10:30"
+		},
+		{
+			"idWeek": "saturday",
+			"weekStart": 1,
+			"weekEnd": 12,
+			"numeration": 3,
+			"even": null,
+			"lesson": "Внедрение информационные систем (лек), Пушкарская Е.В., 11/113 ауд.",
+			"time": "12:45"
+		},
+		{
+			"idWeek": "saturday",
+			"weekStart": 2,
+			"weekEnd": 10,
+			"numeration": 4,
+			"even": null,
+			"lesson": "Внедрение информационные систем (практ.), Пушкарская Е.В., 11/410 ауд.",
+			"time": "14:30"
+		},
+		{
+			"idWeek": "saturday",
+			"weekStart": 11,
+			"weekEnd": 12,
+			"numeration": 4,
+			"even": null,
+			"lesson": "Внедрение информационные систем (лаб.), Пушкарская Е.В., 11/410 ауд.",
+			"time": "14:30"
+		}
+	]
+}
